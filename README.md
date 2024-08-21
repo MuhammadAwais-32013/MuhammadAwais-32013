@@ -11,15 +11,15 @@ I'm a Computer Science student, passionate about Generative AI and Machine Learn
 
 I also have hands-on experience with Hugging Face, Gradio, and Streamlit, and I've successfully deployed several Generative AI applications. Additionally, I can work with LLMs and LangChain.
 
-## My Skill Set
 
-### 🔗 Connect with Me
+
+### Connect with Me
 <p align="start">
   <a href="https://www.linkedin.com/in/muhammad-awais32013">
     <img src="https://img.shields.io/badge/LinkedIn-%2300A0DC.svg?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 </p>
-
+### <div align="center"> My Skills </div>
 ### 🌐 Frontend
 ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat&logo=css3&logoColor=white)
