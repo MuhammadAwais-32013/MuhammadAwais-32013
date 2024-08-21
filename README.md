@@ -1,5 +1,8 @@
-# 🌟 Muhammad Awais
-### Generative AI Enthusiast | Web Developer
+# <div align="center">👋 Hi, Muhammad Awais here</div>
+
+### <div align="center">🤖 Generative AI Enthusiast | 🌐 Web Developer</div>
+
+
 
 ![Profile View Counter](https://komarev.com/ghpvc/?username=MuhammadAwais-32013)
 
@@ -17,7 +20,7 @@ I also have hands-on experience with Hugging Face, Gradio, and Streamlit, and I'
   </a>
 </p>
 
-**Frontend**
+### 🌐 Frontend
 ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat&logo=css3&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=flat&logo=bootstrap&logoColor=white)
@@ -26,25 +29,24 @@ I also have hands-on experience with Hugging Face, Gradio, and Streamlit, and I'
 ![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=flat&logo=react&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-%23000000.svg?style=flat&logo=nextdotjs&logoColor=white)
 
-**Database**
+### 🗃️ Database
 ![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?style=flat&logo=mysql&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-%2300f.svg?style=flat&logo=sql&logoColor=white)
 
-**Languages**
+### 🧩 Languages
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat&logo=javascript&logoColor=black)
 ![C++](https://img.shields.io/badge/C%2B%2B-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-%23007396.svg?style=flat&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=flat&logo=python&logoColor=white)
 
 ### 🧠 Generative AI
+![Streamlit](https://img.shields.io/badge/Streamlit-%23FF4B4B.svg?style=flat&logo=streamlit&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-%23FFD44A.svg?style=flat&logo=huggingface&logoColor=black)
+![Groq](https://img.shields.io/badge/Groq-%239B4F96.svg?style=flat&logo=groq&logoColor=white)
+![Kaggle](https://img.shields.io/badge/Kaggle-%2320BEFF.svg?style=flat&logo=kaggle&logoColor=white)
+![Colab](https://img.shields.io/badge/Colab-%23F9AB00.svg?style=flat&logo=googlecolab&logoColor=white)
 
-  ![Streamlit](https://img.shields.io/badge/Streamlit-%23FF4B4B.svg?style=flat&logo=streamlit&logoColor=white)
-  ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-%23FFD44A.svg?style=flat&logo=huggingface&logoColor=black)
-  ![Groq](https://img.shields.io/badge/Groq-%239B4F96.svg?style=flat&logo=groq&logoColor=white)
-  ![Kaggle](https://img.shields.io/badge/Kaggle-%2320BEFF.svg?style=flat&logo=kaggle&logoColor=white)
-  ![Colab](https://img.shields.io/badge/Colab-%23F9AB00.svg?style=flat&logo=googlecolab&logoColor=white)
-
-**Others**
+### ⚙️ Others
 ![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=flat&logo=github&logoColor=white)
 ![NPM](https://img.shields.io/badge/npm-%23CB3837.svg?style=flat&logo=npm&logoColor=white)
@@ -55,4 +57,3 @@ I also have hands-on experience with Hugging Face, Gradio, and Streamlit, and I'
 
 ## My Projects
 [Voice-to-Voice App](https://huggingface.co/spaces/AlphaCoder32/voice_to_voice_Bot)
-
