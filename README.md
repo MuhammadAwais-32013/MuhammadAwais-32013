@@ -1,7 +1,5 @@
-                          ## Hi there Guys 👋
-                 # Muhammad Awais/ A Generative AI Enthusiast / Web Developer
-
-
+                          #### Hi there Guys 👋
+                 ### Muhammad Awais/ A Generative AI Enthusiast / Web Developer
 ![Profile View Counter](https://komarev.com/ghpvc/?username=MuhammadAwais-32013)
 
 ### About Me
