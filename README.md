@@ -20,7 +20,7 @@ I also have hands-on experience with Hugging Face, Gradio, and Streamlit, and I'
   </a>
 </p>
 
-### <div align="center"> My Skills </div>
+# <div align="center">### 💡 My Skills </div>
 
 ### 🌐 Frontend
 ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
