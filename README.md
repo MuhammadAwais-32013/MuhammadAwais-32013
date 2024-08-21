@@ -11,7 +11,7 @@ I also have hands-on experience with Hugging Face, Gradio, and Streamlit, and I'
 ## My Skill Set
 
 ### 🔗 Connect with Me
-<p align="center">
+<p align="start">
   <a href="https://www.linkedin.com/in/muhammad-awais32013">
     <img src="https://img.shields.io/badge/LinkedIn-%2300A0DC.svg?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
@@ -57,15 +57,3 @@ I also have hands-on experience with Hugging Face, Gradio, and Streamlit, and I'
 ## My Projects
 [Voice-to-Voice App](https://huggingface.co/spaces/AlphaCoder32/voice_to_voice_Bot)
 
-### 📝 Contributions
-<p align="center">
-  <a href="https://github.com/MuhammadAwais-32013?tab=repositories">
-    <img src="https://img.shields.io/github/followers/MuhammadAwais-32013?style=flat&logo=github&label=Followers" alt="Followers"/>
-  </a>
-  <a href="https://github.com/MuhammadAwais-32013">
-    <img src="https://img.shields.io/github/stars/MuhammadAwais-32013?style=flat&logo=github&label=Stars" alt="Stars"/>
-  </a>
-  <a href="https://github.com/MuhammadAwais-32013">
-    <img src="https://img.shields.io/github/contributors/MuhammadAwais-32013?style=flat&logo=github&label=Contributors" alt="Contributors"/>
-  </a>
-</p>
