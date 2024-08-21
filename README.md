@@ -37,13 +37,13 @@ I also have hands-on experience with Hugging Face, Gradio, and Streamlit, and I'
 ![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=flat&logo=python&logoColor=white)
 
 ### 🧠 Generative AI
-<p align="start">
-  ![Streamlit]"https://img.shields.io/badge/Streamlit-%23FF4B4B.svg?style=flat&logo=streamlit&logoColor=white" 
+
+  ![Streamlit](https://img.shields.io/badge/Streamlit-%23FF4B4B.svg?style=flat&logo=streamlit&logoColor=white)
   <img src="https://img.shields.io/badge/Hugging%20Face-%23FFD44A.svg?style=flat&logo=huggingface&logoColor=black" alt="Hugging Face"/>
   <img src="https://img.shields.io/badge/Groq-%239B4F96.svg?style=flat&logo=groq&logoColor=white" alt="Groq"/>
   <img src="https://img.shields.io/badge/Kaggle-%2320BEFF.svg?style=flat&logo=kaggle&logoColor=white" alt="Kaggle"/>
   <img src="https://img.shields.io/badge/Colab-%23F9AB00.svg?style=flat&logo=googlecolab&logoColor=white" alt="Colab"/>
-</p>
+
 
 **Others**
 ![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=flat&logo=git&logoColor=white)
