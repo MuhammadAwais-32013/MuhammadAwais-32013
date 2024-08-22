@@ -60,4 +60,5 @@ I also have hands-on experience with Hugging Face, Gradio, and Streamlit, and I'
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=flat&logo=discord&logoColor=white)](https://discord.com/)
 
 ## My Projects
-[Voice-to-Voice App](https://huggingface.co/spaces/AlphaCoder32/voice_to_voice_Bot)
+[Voice to Voice App](https://huggingface.co/spaces/AlphaCoder32/voice_to_voice_Bot)
+
