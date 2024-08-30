@@ -2,9 +2,9 @@
  </p># 👋  Hi, Muhammad Awais here
 
 ### 🤖 Generative AI Enthusiast | 🌐 Web Developer
-</p># 👋  Hi, Muhammad Awais here
+</p>
 
-### 🤖 Generative AI Enthusiast | 🌐 Web Developer
+
 
 ![Profile View Counter](https://komarev.com/ghpvc/?username=MuhammadAwais-32013)
 
