@@ -1,5 +1,5 @@
 
- <h1> # 👋  Hi, Muhammad Awais here</h1>
+ <h1 align='center'> # 👋  Hi, Muhammad Awais here</h1>
 
 ### 🤖 Generative AI Enthusiast | 🌐 Web Developer
 
