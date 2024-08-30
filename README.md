@@ -1,4 +1,8 @@
-# 👋  Hi, Muhammad Awais here
+<p align="center">
+ </p># 👋  Hi, Muhammad Awais here
+
+### 🤖 Generative AI Enthusiast | 🌐 Web Developer
+</p># 👋  Hi, Muhammad Awais here
 
 ### 🤖 Generative AI Enthusiast | 🌐 Web Developer
 
