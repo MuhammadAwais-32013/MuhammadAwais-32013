@@ -1,4 +1,4 @@
-# <div align="center">👋 Hi, Muhammad Awais here</div>
+![image](https://github.com/user-attachments/assets/4b167cb1-3159-4cf3-bb1b-40b601158cbc)# <div align="center">👋 Hi, Muhammad Awais here</div>
 
 ### <div align="center">🤖 Generative AI Enthusiast | 🌐 Web Developer</div>
 
@@ -39,6 +39,7 @@ I also have hands-on experience with Hugging Face, Gradio, and Streamlit, and I'
 ### 🧩 Languages
 [![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat&logo=javascript&logoColor=black)](https://www.w3schools.com/js/)
 [![TypeScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
+[![TypeScript](https://www.flaticon.com/free-icon/typescript_5968381?term=typescript&page=1&position=1&origin=search&related_id=5968381)](https://www.typescriptlang.org/)
 [![C++](https://img.shields.io/badge/C%2B%2B-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white)](https://www.w3schools.com/cpp/)
 [![Java](https://img.shields.io/badge/Java-%23007396.svg?style=flat&logo=java&logoColor=white)](https://www.java.com/)
 [![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=flat&logo=python&logoColor=white)](https://www.python.org/)
