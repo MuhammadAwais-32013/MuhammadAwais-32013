@@ -1,8 +1,6 @@
-![image](https://github.com/user-attachments/assets/4b167cb1-3159-4cf3-bb1b-40b601158cbc)# <div align="center">👋 Hi, Muhammad Awais here</div>
+# 👋  Hi, Muhammad Awais here
 
-### <div align="center">🤖 Generative AI Enthusiast | 🌐 Web Developer</div>
-
-
+### 🤖 Generative AI Enthusiast | 🌐 Web Developer
 
 ![Profile View Counter](https://komarev.com/ghpvc/?username=MuhammadAwais-32013)
 
@@ -11,17 +9,14 @@ I'm a Computer Science student, passionate about Generative AI and Machine Learn
 
 I also have hands-on experience with Hugging Face, Gradio, and Streamlit, and I've successfully deployed several Generative AI applications. Additionally, I can work with LLMs and LangChain.
 
-
-
 ### Connect with Me
 <p align="start">
   <a href="https://www.linkedin.com/in/muhammad-awais32013">
-    <img src="https://img.shields.io/badge/LinkedIn-%2300A0DC.svg?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-%2300A0DC.svg?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" height="30"/>
   </a>
 </p>
 
-# <div align="center">### 💡 My Skills </div>
-
+# 💡 My Skills
 
 ### 🌐 Frontend
 [![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)](https://www.w3schools.com/html/)
@@ -38,8 +33,7 @@ I also have hands-on experience with Hugging Face, Gradio, and Streamlit, and I'
 
 ### 🧩 Languages
 [![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat&logo=javascript&logoColor=black)](https://www.w3schools.com/js/)
-[![TypeScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
-[![TypeScript](https://www.flaticon.com/free-icon/typescript_5968381?term=typescript&page=1&position=1&origin=search&related_id=5968381)](https://www.typescriptlang.org/)
+[![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 [![C++](https://img.shields.io/badge/C%2B%2B-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white)](https://www.w3schools.com/cpp/)
 [![Java](https://img.shields.io/badge/Java-%23007396.svg?style=flat&logo=java&logoColor=white)](https://www.java.com/)
 [![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=flat&logo=python&logoColor=white)](https://www.python.org/)
@@ -62,4 +56,3 @@ I also have hands-on experience with Hugging Face, Gradio, and Streamlit, and I'
 
 ## My Projects
 [Voice to Voice App](https://huggingface.co/spaces/AlphaCoder32/voice_to_voice_chatBot)
-
