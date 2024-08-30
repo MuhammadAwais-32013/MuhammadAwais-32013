@@ -38,7 +38,7 @@ I also have hands-on experience with Hugging Face, Gradio, and Streamlit, and I'
 
 ### 🧩 Languages
 [![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat&logo=javascript&logoColor=black)](https://www.w3schools.com/js/)
-[![TypeScript](https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg)](https://www.typescriptlang.org/)
+[![TypeScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 [![C++](https://img.shields.io/badge/C%2B%2B-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white)](https://www.w3schools.com/cpp/)
 [![Java](https://img.shields.io/badge/Java-%23007396.svg?style=flat&logo=java&logoColor=white)](https://www.java.com/)
 [![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=flat&logo=python&logoColor=white)](https://www.python.org/)
