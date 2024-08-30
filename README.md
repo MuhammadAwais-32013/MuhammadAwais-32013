@@ -1,7 +1,7 @@
 
  <h1 align='center'> # 👋  Hi, Muhammad Awais here</h1>
 
-<h3 align='center'>## 🤖 Generative AI Enthusiast | 🌐 Web Developer</h3>
+<h2 align='center'>## 🤖 Generative AI Enthusiast | 🌐 Web Developer</h2>
 
 
 
@@ -20,7 +20,7 @@ I also have hands-on experience with Hugging Face, Gradio, and Streamlit, and I'
   </a>
 </p>
 
-<h3 align='center'># 💡 My Skills</h3>
+<h2 align='center'># 💡 My Skills</h2>
 
 ### 🌐 Frontend
 [![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)](https://www.w3schools.com/html/)
