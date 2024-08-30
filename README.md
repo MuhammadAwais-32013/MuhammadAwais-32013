@@ -20,7 +20,7 @@ I also have hands-on experience with Hugging Face, Gradio, and Streamlit, and I'
   </a>
 </p>
 
-# 💡 My Skills
+<h3 align='center'># 💡 My Skills</h3>
 
 ### 🌐 Frontend
 [![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)](https://www.w3schools.com/html/)
