@@ -1,7 +1,7 @@
 
  <h1 align='center'> # 👋  Hi, Muhammad Awais here</h1>
 
-### 🤖 Generative AI Enthusiast | 🌐 Web Developer
+<h3 align='center'>## 🤖 Generative AI Enthusiast | 🌐 Web Developer</h3>
 
 
 
