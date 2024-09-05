@@ -59,12 +59,8 @@ I also have hands-on experience with Hugging Face, Gradio, and Streamlit, and I'
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=flat&logo=discord&logoColor=white)](https://discord.com/)
 
 
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/wFCG9Jyd) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/muhammad-awais32013) 
-
-
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=MuhammadAwais-32013&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=MuhammadAwais-32013&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=MuhammadAwais-32013&theme=tokyonight&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadAwais-32013&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
