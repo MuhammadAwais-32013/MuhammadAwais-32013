@@ -1,7 +1,7 @@
 
  <h1 align='center'> # 👋  Hi, Muhammad Awais here</h1>
 
-<h2 align='center'>## 🤖 Generative AI Enthusiast | 🌐 Web Developer</h2>
+<h2 align='center'>## 🤖Agentic & Generative AI Enthusiast | 🌐 Web Developer</h2>
 
 
 
@@ -9,7 +9,7 @@
 ![Profile View Counter](https://komarev.com/ghpvc/?username=MuhammadAwais-32013)
 
 ## About Me
-I'm a Computer Science student, passionate about Generative AI and Machine Learning. I have a strong foundation in Object-Oriented Programming, programming fundamentals, and Data Structures and Algorithms (DSA). My front-end development expertise includes working with Tailwind CSS and Next.js.
+I'm a Computer Science student, passionate about Agentic Ai, Generative AI, and Machine Learning. I have a strong foundation in Object-Oriented Programming, programming fundamentals, and Data Structures and Algorithms (DSA). My front-end development expertise includes working with Tailwind CSS and Next.js.
 
 I also have hands-on experience with Hugging Face, Gradio, and Streamlit, and I've successfully deployed several Generative AI applications. Additionally, I can work with LLMs and LangChain.
 
