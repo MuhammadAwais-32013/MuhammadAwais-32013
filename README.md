@@ -20,6 +20,9 @@
   <a href="https://huggingface.co/AlphaCoder32">
     <img src="https://img.shields.io/badge/Hugging%20Face-%23FFD44A.svg?style=flat&logo=huggingface&logoColor=black" alt="Hugging Face" height="28"/>
   </a>
+  <a href="https://www.kaggle.com/muhammadawaisqrni">
+    <img src="https://img.shields.io/badge/Kaggle-%2320BEFF.svg?style=flat&logo=kaggle&logoColor=white" alt="Kaggle" height="28"/>
+  </a>
 </p>
 
 <p align="center">
@@ -239,4 +242,4 @@ Live demo of a voice-in, voice-out conversational app deployed on Hugging Face S
 
 I'm happy to discuss research collaborations, supervision opportunities, or engineering roles.
 
-📧 [dev.muhammadowais@gmail.com](mailto:dev.muhammadowais@gmail.com) · 💼 [LinkedIn](https://www.linkedin.com/in/muhammad-awais32013) · 🌐 [Portfolio](https://muhammad-awais-swe.vercel.app/)
+📧 [dev.muhammadowais@gmail.com](mailto:dev.muhammadowais@gmail.com) · 💼 [LinkedIn](https://www.linkedin.com/in/muhammad-awais32013) · 🌐 [Portfolio](https://muhammad-awais-swe.vercel.app/) · 📊 [Kaggle](https://www.kaggle.com/muhammadawaisqrni)
