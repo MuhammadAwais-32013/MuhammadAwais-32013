@@ -76,7 +76,7 @@ A real-time congestion monitoring system for two Islamabad junctions (NUML Gate,
 
 Inference runs at **3.1–5.7 ms/image** on a Tesla T4. Error analysis shows mistakes are mostly background false positives rather than class mix-ups; *Human* is the weakest class (test mAP@50 76.6%).
 
-🔗 [Dataset](https://REPLACE-DATASET-LINK) · [Training notebook](https://REPLACE-NOTEBOOK-LINK) · [Code](https://github.com/MuhammadAwais-32013/REPLACE-REPO)
+🔗 [Dataset](https://www.kaggle.com/datasets/muhammadawaisqrni/yolo-numl-dataset-1-0) · [Training notebook](https://github.com/MuhammadAwais-32013/FYP_Yolo_Fine-Tuning) · [Code](https://github.com/MuhammadAwais-32013/FYP_Yolo_Fine-Tuning)
 
 ---
 
@@ -87,7 +87,7 @@ Full-stack assistant for diabetes and hypertension patients. A retrieval-augment
 
 🧪 *In progress: groundedness and hallucination evaluation against a no-retrieval baseline.*
 
-🔗 [GitHub](https://github.com/MuhammadAwais-32013/REPLACE-DIABP-REPO)
+🔗 [GitHub](https://github.com/MuhammadAwais-32013/DietPlanner_mobile-app)
 
 ---
 
@@ -105,7 +105,7 @@ Role-specialised agents (researcher, reporting analyst, scriptwriter) use web-se
 
 Planner, Writer and Editor agents collaborate to turn a topic into a polished, SEO-optimised blog article, with explicit roles, goals and task-level expected outputs.
 
-🔗 [GitHub](https://github.com/MuhammadAwais-32013/REPLACE-CONTENT-AGENTS-REPO)
+🔗 [GitHub](https://github.com/MuhammadAwais-32013/podcaster_crew)
 
 ---
 
@@ -114,7 +114,7 @@ Planner, Writer and Editor agents collaborate to turn a topic into a polished, S
 
 Retrieves and analyses live news for question answering and summarisation. Five API endpoints, audio narration, and translation into Urdu, English, Spanish and French.
 
-🔗 [GitHub](https://github.com/MuhammadAwais-32013/REPLACE-ARTICLESIFT-REPO)
+🔗 [GitHub](https://github.com/MuhammadAwais-32013/Article-Generator_Hackathon_Project)
 
 ---
 
@@ -123,7 +123,7 @@ Retrieves and analyses live news for question answering and summarisation. Five 
 
 End-to-end forecasting pipeline with lag, rolling-window (4-period mean/std) and calendar features. **R² = 0.92** on a held-out test set (train R² = 0.97).
 
-🔗 [GitHub](https://github.com/MuhammadAwais-32013/REPLACE-FORECASTING-REPO)
+🔗 [GitHub](https://github.com/MuhammadAwais-32013/Sales-forecast-forecasting-model-XGBOOST/)
 
 ---
 
