@@ -52,9 +52,8 @@ I'm interested in **measuring whether AI systems can be trusted**: how detection
 | | Focus |
 |---|---|
 | **Computer vision and multimodal learning:** | Object detection and tracking, video analytics, vision-language models, open-vocabulary scene understanding. |
-| **Intelligent transportation and embodied AI: ** | Perception for traffic monitoring and autonomous systems; real-time, edge-deployable AI. |
-| **LLM systems and agentic AI:** |  Retrieval-augmented generation, LLM agents and multi-agent systems, evaluation
-of LLM systems.|
+| **Intelligent transportation and embodied AI:** | Perception for traffic monitoring and autonomous systems; real-time, edge-deployable AI. |
+| **LLM systems and agentic AI:** |  Retrieval-augmented generation, LLM agents and multi-agent systems, evaluation of LLM systems.|
 | **Trustworthy and applied AI:** |  Reliability and error analysis, generative AI applications, AI for healthcare, machine
 learning for forecasting. |
 
